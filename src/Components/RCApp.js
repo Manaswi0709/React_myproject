@@ -77,7 +77,7 @@ export const RCApp=()=>{
        
       </form>
       <div className="col-12">
-        <a href="user.html">
+        <a href="/Navbar">
         <button type="submit" className="btn btn-primary">Submit</button>
       </a>
     </div>
